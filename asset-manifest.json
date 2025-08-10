@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Karthik-Portfolio/static/css/main.744aa1df.css",
+    "main.js": "/Karthik-Portfolio/static/js/main.f8086c1e.js",
+    "static/js/770.074a10a6.chunk.js": "/Karthik-Portfolio/static/js/770.074a10a6.chunk.js",
+    "static/js/453.ad7768ec.chunk.js": "/Karthik-Portfolio/static/js/453.ad7768ec.chunk.js",
+    "static/media/weatherApp.png": "/Karthik-Portfolio/static/media/weatherApp.255b706a0a1d734acab0.png",
+    "static/media/volumeControl.png": "/Karthik-Portfolio/static/media/volumeControl.328fa7f30e58e4958607.png",
+    "static/media/AStar.png": "/Karthik-Portfolio/static/media/AStar.a603127c5bb7f56d3f7d.png",
+    "static/media/dinoAi.png": "/Karthik-Portfolio/static/media/dinoAi.779e9546e84c2ec99758.png",
+    "static/media/logo.png": "/Karthik-Portfolio/static/media/logo.3ce318c34c65d26f9202.png",
+    "static/media/Karthik - Python developer.pdf": "/Karthik-Portfolio/static/media/Karthik - Python developer.8ad11abd01ceb067f6af.pdf",
+    "static/media/home-main.svg": "/Karthik-Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Karthik-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/Karthik-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Karthik-Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Karthik-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Karthik-Portfolio/index.html",
+    "main.744aa1df.css.map": "/Karthik-Portfolio/static/css/main.744aa1df.css.map",
+    "main.f8086c1e.js.map": "/Karthik-Portfolio/static/js/main.f8086c1e.js.map",
+    "770.074a10a6.chunk.js.map": "/Karthik-Portfolio/static/js/770.074a10a6.chunk.js.map",
+    "453.ad7768ec.chunk.js.map": "/Karthik-Portfolio/static/js/453.ad7768ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.744aa1df.css",
+    "static/js/main.f8086c1e.js"
+  ]
+}
