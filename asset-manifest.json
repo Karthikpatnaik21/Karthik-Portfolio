@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Karthik-Portfolio/static/css/main.744aa1df.css",
-    "main.js": "/Karthik-Portfolio/static/js/main.f8086c1e.js",
+    "main.js": "/Karthik-Portfolio/static/js/main.97cfa993.js",
     "static/js/770.074a10a6.chunk.js": "/Karthik-Portfolio/static/js/770.074a10a6.chunk.js",
     "static/js/453.ad7768ec.chunk.js": "/Karthik-Portfolio/static/js/453.ad7768ec.chunk.js",
     "static/media/weatherApp.png": "/Karthik-Portfolio/static/media/weatherApp.255b706a0a1d734acab0.png",
@@ -17,12 +17,12 @@
     "static/media/pre.svg": "/Karthik-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Karthik-Portfolio/index.html",
     "main.744aa1df.css.map": "/Karthik-Portfolio/static/css/main.744aa1df.css.map",
-    "main.f8086c1e.js.map": "/Karthik-Portfolio/static/js/main.f8086c1e.js.map",
+    "main.97cfa993.js.map": "/Karthik-Portfolio/static/js/main.97cfa993.js.map",
     "770.074a10a6.chunk.js.map": "/Karthik-Portfolio/static/js/770.074a10a6.chunk.js.map",
     "453.ad7768ec.chunk.js.map": "/Karthik-Portfolio/static/js/453.ad7768ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.744aa1df.css",
-    "static/js/main.f8086c1e.js"
+    "static/js/main.97cfa993.js"
   ]
 }
