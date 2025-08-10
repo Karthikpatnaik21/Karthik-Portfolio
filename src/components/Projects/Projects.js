@@ -5,10 +5,8 @@ import Particle from "../Particle";
 
 // Import images
 import dino from "../../Assets/Projects/dinoAi.png";
-import emotion from "../../Assets/Projects/emotion.png";
 import volumeControl from "../../Assets/Projects/volumeControl.png";
 import weatherApp from "../../Assets/Projects/weatherApp.png";
-import suicide from "../../Assets/Projects/suicide.png";
 import AStar from "../../Assets/Projects/AStar.png";
 
 // Array of projects
